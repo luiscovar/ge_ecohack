@@ -1,4 +1,4 @@
-#General Electric Ecohack - 1st placek
+#General Electric Ecohack - 1st place
 https://fullerton-ecohack.run.aws-usw02-pr.ice.predix.io/
 
 
